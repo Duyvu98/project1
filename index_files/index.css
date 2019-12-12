@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.menu{
+    background: url(/image/--photo.png);
+    height: 800px;
+    
+}
